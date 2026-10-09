@@ -90,7 +90,7 @@ Add `Zepto_Sales_Analysis_Presentation.pptx` to the repository as an optional pr
 
 This project can be presented as an **Excel Dashboard / Sales Analytics** portfolio project, highlighting data summarization, interactive reporting, KPI design, and business-focused visualization.
 
-Author
+👨‍💻Author
 
 Sahil Raza
 
