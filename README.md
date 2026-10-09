@@ -94,4 +94,4 @@ This project can be presented as an **Excel Dashboard / Sales Analytics** portfo
 
 Sahil Raza
 
-Data Analyst | Excel | SQL | Python | Power BI
+Excel Enthusiast | Data Analysis | Dashboard & Data Visualization |
