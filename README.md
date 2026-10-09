@@ -92,7 +92,7 @@ This project can be presented as an **Excel Dashboard / Sales Analytics** portfo
 
 **👨‍💻 Author**
 
-**Sahil Razza**
+**Sahil Raza**
 
 Excel & Data Analytics Enthusiast
 
